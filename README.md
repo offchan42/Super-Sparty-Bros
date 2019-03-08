@@ -6,4 +6,4 @@ Collect coins. Jump on enemies to stun them. Pick up the rose for victory. Hold 
 Enemies die on 3 stuns.
 
 
-## [CLICK HERE to play via WebGL or download Windows standalone version](http://angsila.cs.buu.ac.th/~57160041/games/Super%20Sparty%20Bros/)
+## [CLICK HERE to download Windows standalone version](https://github.com/off99555/Super-Sparty-Bros/releases)
